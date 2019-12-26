@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
+    "highlight.js": "^9.17.1",
+    "url-parse": "^1.4.7",
     "vue": "^2.6.10"
   },
   "devDependencies": {
